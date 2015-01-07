@@ -1,5 +1,5 @@
 package creational;
-
+/* Test */ 
 public class Creational {
 	public final String type = "Creational Design Pattern\n";
 	public final String details = "\nCreational Design Patterns: \n" + 
